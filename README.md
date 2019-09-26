@@ -1,2 +1,14 @@
 # vagrant-multimachine-web
-multi machine web01 web02 in single Vagrantfile
+Demo repository with multi machine "web01" and "web02" in a single Vagrantfile
+
+# How to use
+
+
+# TODO
+
+- [ ] create initial Vagrant file to deploy 2 machines
+- [ ] add deployement script to make them "web"
+- [ ] update instructions
+
+# DONE
+
